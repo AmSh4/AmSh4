@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ambuj Shrivastav
 
-<!--
-**AmSh4/AmSh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. in AI & ML | 💻 Software Developer | 🤖 Real-Time Systems Enthusiast  
+🔬 Skilled in Python, Java, and system architecture — passionate about building scalable, efficient solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Tools
+
+- **Languages**: Python, Java, JavaScript (ES6+)
+- **Frontend**: React.js, HTML5, CSS3  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Databases**: MongoDB, SQLite  
+- **AI/ML**: OpenCV, NumPy, Pandas, Scikit-learn  
+- **Dev Tools**: Git, GitHub, VS Code, IntelliJ IDEA  
+- **CS Core**: Data Structures & Algorithms, OOP, OS, DBMS, CN, System Design  
+- **Practices**: Agile, Clean Code, Modular Design, Debugging
+
+---
+
+## 💼 What I Value
+
+- 🔁 Iterative development & continuous learning  
+- 🧠 Depth over surface-level skills  
+- 🤝 Collaboration and structured thinking  
+- 🧪 Building impactful, real-world solutions with clean, maintainable code
+
+---
+
+## 🚀 Currently
+
+- Diving deeper into system design and architecture  
+- Enhancing problem-solving through competitive programming  
+- Open to collaboration, contributions, and tech-driven conversations
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 [ambujshrivastav19@gmail.com](mailto:ambujshrivastav19@gmail.com)  
+- 🌐 [github.com/AmSh4](https://github.com/AmSh4)
+
+---
