@@ -71,6 +71,7 @@
 ---
 
 ## 📈 My Contribution Journey
+---
 
 <div align="center">
   <img src="https://github.com/AmSh4/AmSh4/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 90%; height: auto;"/>
