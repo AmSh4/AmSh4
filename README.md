@@ -64,25 +64,28 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=radical&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
 </p>
-<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/AmSh4/AmSh4/main/days-of-code.svg" alt="Days I Code" />
-</p>
+
 
 ## 📈 My Contribution Journey
 <div align="center">
 <img src="https://github.com/AmSh4/AmSh4/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 90%; height: auto;"/>
 </div>
 
-## ✨ Just for Fun
+## ✨ Just for Fun  
+
 <p align="center">
+  <!-- 🎵 Spotify Now Playing -->
   <a href="https://open.spotify.com/user/31xm5la7y5mlqkd5sfsepj5xtjem">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xm5la7y5mlqkd5sfsepj5xtjem&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false" alt="Spotify Playing" width="350px"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&qColor=AD00EE" alt="Developer Joke"/>
+  <!-- 😂 Random Developer Joke -->
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&qColor=AD00EE&timestamp=${Date.now()}" alt="Developer Joke"/>
 </p>
+
+
 
 ## 🩵 Random Dev Quote
 <div align="center">
