@@ -66,23 +66,22 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 </p>
 
 
-## 📈 My Contribution Journey
-<div align="center">
-<img src="https://github.com/AmSh4/AmSh4/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 90%; height: auto;"/>
-</div>
-
-## ✨ Just for Fun  
-
+## 📝 My Contribution Journey
 <p align="center">
-  <!-- 🎵 Spotify Now Playing -->
-  <a href="https://open.spotify.com/user/31xm5la7y5mlqkd5sfsepj5xtjem">
+  <img src="https://raw.githubusercontent.com/AmSh4/AmSh4/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+## ✨ Just for Fun
+<p align="center">
+  <a href="https://open.spotify.com/user/31xm5la7y5mlqkd5sfsepj5xtjem" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xm5la7y5mlqkd5sfsepj5xtjem&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false" alt="Spotify Playing" width="350px"/>
   </a>
 </p>
 
+
 <p align="center">
   <!-- 😂 Random Developer Joke -->
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&qColor=AD00EE&timestamp=${Date.now()}" alt="Developer Joke"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&qColor=AD00EE&t=2" alt="Developer Joke"/>
 </p>
 
 
