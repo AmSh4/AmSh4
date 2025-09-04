@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:ambujshrivastav1139@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
 
@@ -59,7 +59,7 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DAmSh4%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15%26column%3D4%26margin-h%3D15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
 </div>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=radical&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
@@ -75,15 +75,16 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 
 ## ✨ Just for Fun
 <p align="center">
-<a href="https://github.com/AmSh4">
-<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3D31xm5la7y5mlqkd5sfsepj5xtjem%26cover_image%3Dtrue%26theme%3Ddefault%26show_offline%3Dfalse%26background_color%3D121212%26bar_color%3D1db954%26bar_color_cover%3Dfalse" alt="Spotify Playing" width="350px"/>
-</a>
+  <a href="https://open.spotify.com/user/31xm5la7y5mlqkd5sfsepj5xtjem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xm5la7y5mlqkd5sfsepj5xtjem&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false" alt="Spotify Playing" width="350px"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api%3Ftheme%3Dradical%26hide_border%3Dtrue%26qColor%3DAD00EE" alt="Developer Joke"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&qColor=AD00EE" alt="Developer Joke"/>
 </p>
 
+## 🩵 Random Dev Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" alt="Random Dev Quote"/>
 </div>
