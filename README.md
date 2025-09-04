@@ -1,92 +1,93 @@
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Hi there 👋, I'm Ambuj Shrivastav</h1>
-  <h3 align="center">🚀 An Aspiring Tech Professional | 💡 Web Dev & Cloud Enthusiast | 📚 Lifelong Learner</h3>
-  <img src="https://komarev.com/ghpvc/?username=AmSh4&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center">Hi there 👋, I'm Ambuj Shrivastav</h1>
+<h3 align="center">🚀 An Aspiring Tech Professional | 💡 Full-Stack • Cloud • DevOps • AI | 📚 Lifelong Learner</h3>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AmSh4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=AmSh4&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
 </div>
 
----
+<div align="center">
+<h3> 🤝 Let's Connect!</h3>
+<p>Find me on social media:</p>
+<a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/AmSh4" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:ambujshrivastav1139@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
+</div>
 
 ## 🌱 About Me
-
 <p>
-  I'm a passionate and driven developer from India, currently pursuing my final year in engineering. My journey is fueled by a profound interest in crafting innovative solutions and a commitment to continuous learning in the ever-evolving tech landscape. I love transforming complex ideas into elegant, high-performing applications.
+I'm a passionate and driven developer from India, currently pursuing my final year in engineering. My journey is fueled by a profound interest in crafting innovative solutions and a commitment to continuous learning in the ever-evolving tech landscape. I love transforming complex ideas into elegant, high-performing applications.
 </p>
 
-- 🔭 I’m currently focused on enhancing my **full-stack development skills** and delving deeper into **Cloud Computing principles**.
-- 👯 I’m actively looking for opportunities to **collaborate on impactful open-source projects** that challenge me and contribute to the community.
-- 🤔 I’m always open to discussing **system design patterns and scalable architectures**.
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, and general software development best practices**.
+- 🔭 I’m currently focused on enhancing my full-stack development skills and delving deeper into Cloud Computing principles.
+
+- 👯 I’m actively looking for opportunities to collaborate on impactful open-source projects that challenge me and contribute to the community.
+
+- 🤔 I’m always open to discussing system design patterns and scalable architectures.
+
+- 💬 Ask me about Python, JavaScript, HTML, CSS, and general software development best practices.
+
 - ⚡ Fun fact: I spend my free time exploring new tech gadgets and reading sci-fi novels!
 
----
-
 ## 💻 My Tech Stack
-
 <p align="center">
-  <h3>Languages & Core:</h3>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-<p align="center">
-  <h3>Frontend Development:</h3>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  </p>
-
-<p align="center">
-  <h3>Tools & Platforms:</h3>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-</p>
-
----
 
 ## 🚀 GitHub Stats & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=radical&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
-
----
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DAmSh4%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15%26column%3D4%26margin-h%3D15" alt="GitHub Trophies"/>
+</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=radical&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
+</p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/AmSh4/AmSh4/main/days-of-code.svg" alt="Days I Code" />
+</p>
 
 ## 📈 My Contribution Journey
-
-
 <div align="center">
-  <img src="https://github.com/AmSh4/AmSh4/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 90%; height: auto;"/>
+<img src="https://github.com/AmSh4/AmSh4/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 90%; height: auto;"/>
 </div>
 
----
-
-## ✨ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" alt="Random Dev Quote"/>
-</div>
-
----
+## ✨ Just for Fun
+<p align="center">
+<a href="https://github.com/AmSh4">
+<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3D31xm5la7y5mlqkd5sfsepj5xtjem%26cover_image%3Dtrue%26theme%3Ddefault%26show_offline%3Dfalse%26background_color%3D121212%26bar_color%3D1db954%26bar_color_cover%3Dfalse" alt="Spotify Playing" width="350px"/>
+</a>
+</p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/AmSh4">AmSh4</a>
+<img src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api%3Ftheme%3Dradical%26hide_border%3Dtrue%26qColor%3DAD00EE" alt="Developer Joke"/>
+</p>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" alt="Random Dev Quote"/>
+</div>
+
+<p align="center">
+⭐️ From <a href="https://github.com/AmSh4">AmSh4</a>
 </p>
