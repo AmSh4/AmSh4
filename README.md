@@ -62,21 +62,20 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
 </div>
 <p align="center">
+
+## 📝 My Contribution Journey
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=radical&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
 </p>
 
+## 🩵 Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" alt="Random Dev Quote"/>
+</div>
 
-## 📝 My Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmSh4/AmSh4/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+
 
 ## ✨ Just for Fun
-<p align="center">
-  <a href="https://open.spotify.com/user/31xm5la7y5mlqkd5sfsepj5xtjem" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xm5la7y5mlqkd5sfsepj5xtjem&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false" alt="Spotify Playing" width="350px"/>
-  </a>
-</p>
+
 
 
 <p align="center">
@@ -85,11 +84,6 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 </p>
 
 
-
-## 🩵 Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" alt="Random Dev Quote"/>
-</div>
 
 <p align="center">
 ⭐️ From <a href="https://github.com/AmSh4">AmSh4</a>
