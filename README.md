@@ -25,7 +25,7 @@
 - 🔭 I’m currently focused on enhancing my **full-stack development skills** and delving deeper into **Cloud Computing principles**.
 - 👯 I’m actively looking for opportunities to **collaborate on impactful open-source projects** that challenge me and contribute to the community.
 - 🤔 I’m always open to discussing **system design patterns and scalable architectures**.
-- 💬 Ask me about **Python, C++, JavaScript, HTML, CSS, and general software development best practices**.
+- 💬 Ask me about **Python, JavaScript, HTML, CSS, and general software development best practices**.
 - ⚡ Fun fact: I spend my free time exploring new tech gadgets and reading sci-fi novels!
 
 ---
