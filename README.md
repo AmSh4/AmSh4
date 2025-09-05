@@ -36,7 +36,7 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 
 - 💬 Ask me about Python, JavaScript, HTML, CSS, and general software development best practices.
 
-- ⚡ Fun fact: I spend my free time exploring new tech gadgets and reading sci-fi novels!
+  -⚡ Fun fact: I enjoy exploring how emerging technologies and AI can be applied to solve real-world challenges.
 
 ## 💻 My Tech Stack
 <p align="center">
