@@ -99,5 +99,5 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 </p>
 
 <p align="center">
-⭐️ From <a href="https://github.com/AmSh4">AmSh4</a>
+⭐️ From <a href="https://github.com/AmSh4">AMBUJ</a>
 </p>
