@@ -82,17 +82,22 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <p align="center">
   <!-- 😂 Random Developer Joke -->
 
-<p align="center" style="background-color:#EDEDED; border: 2px solid black; border-radius: 12px; padding: 10px; display: inline-block;">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=EDEDED&textColor=000000&qColor=E67E22&aColor=2C3E50" 
-       alt="Developer Joke" 
-       style="border-radius: 12px; font-weight: bold;"/>
+
+    
+
+<table align="center">
+  <tr>
+    <td style="background-color: #000000; border: 2px solid #39FF14; border-radius: 10px; padding: 10px;">
+      <img 
+        src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=39FF14&aColor=FFFFFF&bgColor=000000" 
+        alt="Developer Joke"
+      />
+    </td>
+  </tr>
+</table>
+
 </p>
-
-
-
-
-
-
+---
 <p align="center">
 ⭐️ From <a href="https://github.com/AmSh4">AmSh4</a>
 </p>
