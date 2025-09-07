@@ -69,7 +69,7 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
   <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
 </picture>
-
+</a>
 
 
 ## 📈 My Stats
