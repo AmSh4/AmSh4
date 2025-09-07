@@ -82,7 +82,15 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <p align="center">
   <!-- 😂 Random Developer Joke -->
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&qColor=AD00EE&t=2" alt="Developer Joke"/>
+
+<p align="center" style="background-color:#EDEDED; border: 2px solid black; border-radius: 12px; padding: 10px; display: inline-block;">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=EDEDED&textColor=000000&qColor=E67E22&aColor=2C3E50" 
+       alt="Developer Joke" 
+       style="border-radius: 12px; font-weight: bold;"/>
 </p>
+
+
+
 
 
 
