@@ -51,7 +51,6 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 </p>
 
 ## 🚀 GitHub Activity
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="56%"/>
 </p>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="42%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="30%"/>
 </p>
