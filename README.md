@@ -51,28 +51,23 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 </p>
 
 ## 🚀 GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="46%"/>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="36%"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="56%"/>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="26%"/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="42%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="30%"/>
 </p>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
 </div>
 <p align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
 </picture>
+</p>
 </a>
 
-
 ## 📈 My Stats
+
 <a href="https://github.com/AmSh4">
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmSh4&theme=radical" height="180em" />
