@@ -74,6 +74,7 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 
 ## 📈 My Stats
 <a href="https://github.com/AmSh4">
+<p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmSh4&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmSh4&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmSh4&theme=radical" height="180em" />
