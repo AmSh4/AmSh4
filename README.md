@@ -40,7 +40,6 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 
 ## 💻 My Tech Stack
 <p align="center">
-
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -48,43 +47,63 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
 ## 🚀 GitHub Stats & Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="76%"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="66%"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="56%"/>
 </p>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
 </div>
 <p align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+## 📈 My Stats
+<a href="https://github.com/AmSh4">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmSh4&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmSh4&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmSh4&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmSh4&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmSh4&theme=radical" height="176.5em" />
+</a>
+
+
+
 ## 📝 My Contribution Journey
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=radical&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
 </p>
 
+
+
+
+
+
 ## 🩵 Random Dev Quote
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" alt="Random Dev Quote"/>
 </div>
 
 
 
+
 ## ✨ Just for Fun
-
-
-
 <p align="center">
   <!-- 😂 Random Developer Joke -->
-
-
-    
-
 <table align="center">
   <tr>
     <td style="background-color: #000000; border: 2px solid #39FF14; border-radius: 10px; padding: 10px;">
@@ -101,3 +120,4 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <p align="center">
 ⭐️ From <a href="https://github.com/AmSh4">AMBUJ</a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
