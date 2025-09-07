@@ -52,12 +52,12 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 
 ## 🚀 GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="56%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmSh4&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats" width="46%"/>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="46%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="36%"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="26%"/>
 </p>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
