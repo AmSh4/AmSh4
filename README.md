@@ -56,6 +56,10 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 </p>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
 </div>
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/?user=AmSh4&theme=radical&column=4&no-frame=true&no-bg=true" alt="GitHub Achievements"/>
+</div>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
