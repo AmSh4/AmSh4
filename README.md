@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <h1 align="center">Hi there 👋, I'm Ambuj Shrivastav</h1>
@@ -51,26 +50,25 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 </p>
 
 ## 🚀 GitHub Activity
-</p>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="52%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="37.48%"/>
-</p>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=radical&hide_border=true" alt="GitHub Streak" width="52%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="37.48%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
 </div>
 <div align="center">
   <img src="https://github-profile-achievements.vercel.app/?user=AmSh4&theme=radical&column=4&no-frame=true&no-bg=true" alt="GitHub Achievements"/>
 </div>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
-</picture>
-</p>
-</a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ## 📈 My Stats
-
 <a href="https://github.com/AmSh4">
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmSh4&theme=radical" height="180em" />
@@ -80,30 +78,17 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmSh4&theme=radical" height="176.5em" />
 </a>
 
-
-
 ## 📝 My Contribution Journey
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=radical&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
-</p>
-
-
-
-
-
 
 ## 🩵 Random Dev Quote
-
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" alt="Random Dev Quote"/>
 </div>
 
-
-
-
 ## ✨ Just for Fun
 <p align="center">
-  <!-- 😂 Random Developer Joke -->
-<table align="center">
+  <table align="center">
   <tr>
     <td style="background-color: #000000; border: 2px solid #39FF14; border-radius: 10px; padding: 10px;">
       <img 
@@ -113,7 +98,6 @@ I'm a passionate and driven developer from India, currently pursuing my final ye
     </td>
   </tr>
 </table>
-
 </p>
 
 <p align="center">
