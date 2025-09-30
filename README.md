@@ -24,7 +24,7 @@
 
 ## 🌱 About Me
 <p>
-I'm a passionate and driven developer from India, currently pursuing my final year in engineering. My journey is fueled by a profound interest in crafting innovative solutions and a commitment to continuous learning in the ever-evolving tech landscape. I love transforming complex ideas into elegant, high-performing applications.
+I'm a passionate and driven developer from India. My journey is fueled by a profound interest in crafting innovative solutions and a commitment to continuous learning in the ever-evolving tech landscape. I love transforming complex ideas into elegant, high-performing applications.
 </p>
 
 - 🔭 I’m currently focused on enhancing my full-stack development skills and delving deeper into Cloud Computing principles.
