@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  AMBUJ SHRIVASTAV - ULTRA ADVANCED AI SEO METADATA                       ║ -->
-<!-- ║  Full Stack Developer | AI Engineer | SDE | 2024 Graduate                ║ -->
+<!-- ║  Full Stack Developer | AI Engineer | SDE        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- 
