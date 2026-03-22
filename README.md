@@ -389,8 +389,7 @@ I'm a passionate and driven developer from India. My journey is fueled by a prof
 </p>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,000000,ff0080,00dfd8,000000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00dfd8,ff0080,000000,30&height=100&section=footer" width="100%" />
 
 ⭐ **If you find my work interesting, consider giving a star to my repositories!**
 <p align="center">
