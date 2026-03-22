@@ -352,10 +352,6 @@ I'm a passionate and driven developer from India. My journey is fueled by a prof
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=tokyonight&hide_border=true" width="37.48%"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" />
-</div>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
