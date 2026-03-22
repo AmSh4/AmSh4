@@ -193,8 +193,10 @@
 -->
 
 <!-- 🔥 END OF ULTRA SEO BLOCK -->
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,000000,ff0080,00dfd8,000000&height=300&section=header&text=Ambuj%20Shrivastav&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20Cloud%20•%20DevOps%20•%20AI&descSize=20&descAlignY=55&fontColor=ffffff&stroke=000000&strokeWidth=2&descStroke=000000&descStrokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f2c,0f52ba,00c6ff,0072ff,0a0f2c&height=300&section=header&text=Ambuj%20Shrivastav&fontSize=70&animation=twinkling&fontAlignY=38&desc=Full-Stack%20•%20Cloud%20•%20DevOps%20•%20AI&descSize=20&descAlignY=55&fontColor=ffffff&stroke=000000&strokeWidth=2&descStroke=000000&descStrokeWidth=2" />
 </p>
 
 <div align="center">
@@ -389,8 +391,7 @@ I'm a passionate and driven developer from India. My journey is fueled by a prof
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00dfd8,ff0080,000000,30&height=100&section=footer" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f2c,0072ff,00c6ff,0f52ba,0a0f2c&height=120&section=footer&animation=twinkling" width="100%" />
 ⭐ **If you find my work interesting, consider giving a star to my repositories!**
 <p align="center">
   <strong>⭐️ From <a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a">AMBUJ</a> | Built with ❤️</strong>
