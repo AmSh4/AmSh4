@@ -199,9 +199,11 @@ I'm a passionate and driven developer from India. My journey is fueled by a prof
 
 <div align="center">
 
-⭐ **If you find my work interesting, consider giving a star to my repositories!**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,000000,ff0080,00dfd8,000000&height=100&section=footer" width="100%" />
-<p>⭐️ From <a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a">AMBUJ</a> | Built with ❤️</p>
+
+⭐ **If you find my work interesting, consider giving a star to my repositories!**
+<p align="center">
+  <strong>⭐️ From <a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a">AMBUJ</a> | Built with ❤️</strong>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
