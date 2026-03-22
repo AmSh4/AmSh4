@@ -1,78 +1,174 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,000000,ff0080,00dfd8,000000&height=300&section=header&text=Ambuj%20Shrivastav&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20Cloud%20•%20DevOps%20•%20AI&descSize=20&descAlignY=55&fontColor=ffffff&stroke=000000&strokeWidth=2&descStroke=000000&descStrokeWidth=2" />
 </p>
-<br/>
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1 align="center">Hey there 👋, </h1>
-<h3 align="center"> An Aspiring Tech Professional | Lifelong Learner</h3>
-</div>
 
 <div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Architect;Building+Scalable+Solutions" alt="Typing Animation" />
+<h3 align="center"> An Aspiring Tech Professional | Lifelong Learner</h3>
+
+<a href="mailto:ambujshrivastav1139@gmail.com">
+  <img src="https://img.shields.io/badge/🤝_HIRE_ME-2ea44f?style=for-the-badge&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/AmSh4?tab=repositories">
+  <img src="https://img.shields.io/badge/📁_PROJECTS-6e40c9?style=for-the-badge&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:ambujshrivastav1139@gmail.com">
+  <img src="https://img.shields.io/badge/📩_COLLABORATE-da70d6?style=for-the-badge&logoColor=white" />
+</a>
+
+<br>
 <img src="https://komarev.com/ghpvc/?username=AmSh4&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
 </div>
 
-<div align="center">
-<h3> 🤝 Let's Connect!</h3>
-<p>Find me on social media:</p>
-<a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+---
 
-<a href="https://github.com/AmSh4" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:ambujshrivastav1139@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</div>
-
-## About Me
+## 🧑‍💻 About Me
 <p>
 I'm a passionate and driven developer from India. My journey is fueled by a profound interest in crafting innovative solutions and a commitment to continuous learning in the ever-evolving tech landscape. I love transforming complex ideas into elegant, high-performing applications.
 </p>
 
 - 🔭 I’m currently focused on enhancing my full-stack development skills and delving deeper into Cloud Computing principles.
-
-- 👯 I’m actively looking for opportunities to collaborate on impactful open-source projects that challenge me and contribute to the community.
-
+- 👯 I’m actively looking for opportunities to collaborate on impactful open-source projects.
 - 🤔 I’m always open to discussing system design patterns and scalable architectures.
-
-- 💬 Ask me about Python, JavaScript, HTML, CSS, and general software development best practices.
-
+- 💬 Ask me about Python, JavaScript, HTML, CSS, and general software development.
 - ⚡ **I enjoy exploring how emerging technologies and AI can be applied to solve real-world challenges.**
 
-## My Tech Stack
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/🕐_2%2B_YEARS-Experience-58a6ff?style=flat-square&labelColor=0d1117" alt="2+ Years of Software Development Experience" />&nbsp;
+<img src="https://img.shields.io/badge/🚀_25%2B-Projects_Delivered-3fb950?style=flat-square&labelColor=0d1117" alt="25+ Projects Successfully Delivered" />&nbsp;
+<img src="https://img.shields.io/badge/🛠️_15%2B-Technologies-f78166?style=flat-square&labelColor=0d1117" alt="15+ Technologies Mastered" />&nbsp;
+<img src="https://img.shields.io/badge/🌐_Remote-Friendly-da70d6?style=flat-square&labelColor=0d1117" alt="Remote Work Available" />
+
+</div>
+
+## 💼 Services & Expertise
+
+<table>
+<tr>
+<td align="center" width="50%">
+<br>
+<img src="https://img.shields.io/badge/🤖-0d1117?style=flat-square" width="60" />
+<h3>AI & Machine Learning</h3>
+<p>Developing AI-driven solutions for real-time monitoring, computer vision with <strong>OpenCV</strong>, and predictive modeling using <strong>Scikit-learn</strong>.</p>
+</td>
+<td align="center" width="50%">
+<br>
+<img src="https://img.shields.io/badge/🌐-0d1117?style=flat-square" width="60" />
+<h3>Full-Stack Development</h3>
+<p>Building scalable web applications using <strong>React</strong>, <strong>FastAPI</strong>, <strong>Spring Boot</strong>, and <strong>Node.js</strong> with a focus on performance.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<br>
+<img src="https://img.shields.io/badge/☁️-0d1117?style=flat-square" width="60" />
+<h3>DevOps & Cloud</h3>
+<p>Containerizing applications with <strong>Docker</strong>, orchestrating with <strong>Kubernetes</strong>, and automating with <strong>CI/CD</strong> pipelines.</p>
+</td>
+<td align="center" width="50%">
+<br>
+<img src="https://img.shields.io/badge/🗄️-0d1117?style=flat-square" width="60" />
+<h3>System Architecture</h3>
+<p>Designing distributed systems, API integrations (SynergyApp), and real-time data monitoring platforms.</p>
+</td>
+</tr>
+</table>
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+
 <p align="center">
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/LANGUAGES_%26_FRONTEND-000000?style=for-the-badge&logo=typescript&logoColor=white" height="45" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-## GitHub Activity
+<p align="center">
+  <img src="https://img.shields.io/badge/BACKEND_%26_DATABASE-000000?style=for-the-badge&logo=spring&logoColor=white" height="45" />
 </p>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="52%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="37.48%"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-056450?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" alt="GitHub Trophies"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GENERATIVE_AI_TOOLS-000000?style=for-the-badge&logo=openai&logoColor=black" height="45" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LLM_Prompt_Optimization-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_Pro-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVOPS_%26_INFRASTRUCTURE-000000?style=for-the-badge&logo=docker&logoColor=white" height="45" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_%26_DATA_SCIENCE-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" height="45" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-820118?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE_FUNDAMENTALS-000000?style=for-the-badge&logo=codestream&logoColor=white" height="500" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/DSA-1245000?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Design-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operating_Systems-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Complexity_Analysis-AD00EE?style=for-the-badge" />
+</p>
+
 </div>
+
+## 📈 GitHub Activity
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmSh4&theme=tokyonight&hide_border=true" width="52%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSh4&layout=compact&theme=tokyonight&hide_border=true" width="37.48%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AmSh4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4&margin-h=15" />
+</div>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
 </picture>
 </p>
-</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  
-## 📈 My Stats
-
+## 📊 Detailed Stats
 <a href="https://github.com/AmSh4">
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmSh4&theme=tokyonight" height="180em" />
@@ -82,43 +178,30 @@ I'm a passionate and driven developer from India. My journey is fueled by a prof
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmSh4&theme=tokyonight" height="176.5em" />
 </a>
 
-
-
-## 📝 My Contribution Journey
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=tokyonight&hide_border=true&area=true&line=AD00EE" alt="Activity Graph"/>
-</p>
-
-
-
-
-
+## 📝 Contribution Journey
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmSh4&theme=tokyonight&hide_border=true&area=true&line=AD00EE" width="100%"/>
 
 ## 🩵 Random Dev Quote
-
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true" />
 </div>
-
-
-
 
 ## ✨ Just for Fun
 <p align="center">
-  <!-- 😂 Random Developer Joke -->
 <table align="center">
   <tr>
     <td style="background-color: #000000; border: 2px solid #39FF14; border-radius: 10px; padding: 10px;">
-      <img 
-        src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=39FF14&aColor=FFFFFF&bgColor=000000" 
-        alt="Developer Joke"
-      />
+      <img src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=39FF14&aColor=FFFFFF&bgColor=000000" />
     </td>
   </tr>
 </table>
-
 </p>
 
-<p align="center">
-⭐️ From <a href="https://github.com/AmSh4">AMBUJ</a>
-</p>
+<div align="center">
+
+⭐ **If you find my work interesting, consider giving a star to my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,000000,ff0080,00dfd8,000000&height=100&section=footer" width="100%" />
+<p>⭐️ From <a href="https://www.linkedin.com/in/ambuj-shrivastav-1969b020a">AMBUJ</a> | Built with ❤️</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
